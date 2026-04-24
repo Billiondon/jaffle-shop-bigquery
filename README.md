@@ -2,7 +2,7 @@
 
 **Problème clinique**  
 Au CathLab, une donnée erronée ou retardée (iFR, Syntaxx Score, Timi Flow...) peut couter tres cher. 
-Pourtant, les flux bruts issus des capteurs contiennent souvent du bruit, des doublons ou des formats hétérogènes.
+Pourtant, les flux bruts contiennent souvent du bruit, des doublons ou des formats hétérogènes.
 
 **Objectif du projet**  
 Construire un pipeline de données robuste (BigQuery + dbt) qui :
