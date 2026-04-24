@@ -1,0 +1,6 @@
+id,user_id,order_date,status
+1,1,2020-01-01,completed
+2,1,2020-01-02,completed
+3,2,2020-01-03,completed
+4,3,2020-01-04,placed
+5,4,2020-01-05,returned
