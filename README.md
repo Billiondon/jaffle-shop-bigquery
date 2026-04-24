@@ -1,4 +1,4 @@
-# 🏥 Pipeline Analytics : Jaffle Shop (Édition BigQuery)
+# Pipeline Analytics : Jaffle Shop ( BigQuery)
 "Comment garantir une transition fluide entre des sources de données hétérogènes et un entrepôt BigQuery, tout en assurant l'intégrité et la documentation automatique des transformations"
 
 # Résumé de l'intervention
