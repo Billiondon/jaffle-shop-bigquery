@@ -1,7 +1,8 @@
-# Flux Critique CathLab : Fiabilité des données pour la décision en cardiologie interventionnelle
+# Fiabilité des données pour la décision en cardiologie interventionnelle
 
 **Problème clinique**  
-Au bloc de cathétérisme (CathLab), une donnée erronée ou retardée (pression artérielle, saturation, horaires d’ischémie) peut altérer la décision du cardiologue. Pourtant, les flux bruts issus des capteurs contiennent souvent du bruit, des doublons ou des formats hétérogènes.
+Au CathLab, une donnée erronée ou retardée (pression artérielle, saturation, horaires d’ischémie) peut couter tres cher. 
+Pourtant, les flux bruts issus des capteurs contiennent souvent du bruit, des doublons ou des formats hétérogènes.
 
 **Objectif du projet**  
 Construire un pipeline de données robuste (BigQuery + dbt) qui :
